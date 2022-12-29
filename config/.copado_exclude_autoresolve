@@ -1,0 +1,5 @@
+#All classes
+**/*.cls
+
+#All VF Pages
+**/*.page
