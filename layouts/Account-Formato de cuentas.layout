@@ -21,7 +21,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>DemoField__c</field>
+                <field>URL__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
